@@ -1,0 +1,64 @@
+header {
+    display: flex;
+    justify-content: flex-start;
+    color: rgb(141, 84, 38);
+    padding-top: 50px;
+    padding-left: 50px;
+    font-weight: bold;
+
+}
+
+html {
+    background-image: url('colosseum.jpg');
+    background-position: 50%;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vw;
+    margin: 0;
+    padding: 0;
+    font-family: 'Metamorphous', cursive;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.3);
+    min-height: 100vh;
+    min-width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding-left: 100px;
+}
+
+.outputField {
+    font-size: 2em;
+}
+
+.title {
+    font-size: 38px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-bottom: 5px;
+    color: rgb(141, 84, 38);
+}
+
+h6 {
+    margin-top: 7px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+form {
+    margin-bottom: 60px;
+}
+
+.input {
+    margin-left: 10px;
+}
+
+.output {
+    margin-left: 10px;
+}
